@@ -1,8 +1,5 @@
 # DevOps Conception Class
 - Student: HIENG MAO
-- Project: SAFETY CITY
-- Trigger: push to `main` 
-- Target: [Staging + test device]
 
 ## Lesson 2: My CI/CD pipeline
 
